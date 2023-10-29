@@ -1,0 +1,20 @@
+export const text = {
+  promoCodeTitle: 'Promo Code',
+  addPromo: 'Add Promo Code',
+  discount: 'Discount',
+  startDate: 'Start Date',
+  expiryDate: 'Expiry Date',
+  usedLimit: 'Used Limit',
+  noOfProduct: 'No of Product',
+  editPromo: 'Edit Promo Code',
+  productName: 'Product Name',
+  discountEnter: 'Enter discount',
+  noOfUser: 'No of Uses',
+  expiredDate: 'Expired Date',
+  confirmMsg: 'Are you sure you want to delete notification?',
+  areYouSure: 'Are you sure?',
+  deleteMassage: 'Want to delete?',
+  enterPromoCode: 'Enter promo code',
+  enterNoOfUser: 'Enter no of uses',
+  discountPer: 'Discount %'
+}
